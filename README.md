@@ -9,3 +9,5 @@ The repository contains solutions for five separate exercises:
 3. A 3D Labyrinth Puzzle Game, building on the previous exercise.
 4. An interactive water wave simulation with textures.
 5. A shader exercise using vertex and fragment shaders to display a terrain. Includes Phong and Gouraud lighting models.
+
+You can find more information in the [documentation](https://nhollmann.github.io/FHW-CG1/).
