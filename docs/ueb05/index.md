@@ -8,8 +8,12 @@ The core goals of this exercise were:
 
 TODO
 
+## Extra feature
+We added normalmapping to the shader. To enable normalmapping, press B. This effect is most visible with disabled textures.
+
 ## 3rd Party
-TODO
+[stb_image.h](https://github.com/nothings/stb) was used for image loading.
+The snow and rock texture were from [Texturehaven](https://texturehaven.com/textures/).
 
 ## Images
 ![First Image](img1.png "TODO")
