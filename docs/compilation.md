@@ -1,3 +1,5 @@
+[Go back](./)
+
 # Compilation instructions
 All solutions are written in C99 and use OpenGL with GLUT for graphics.
 

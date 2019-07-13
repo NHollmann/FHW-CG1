@@ -1,3 +1,5 @@
+[Go back](../)
+
 # Exercise 2
 A 2D Labyrinth Puzzle Game.
 
