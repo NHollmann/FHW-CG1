@@ -34,6 +34,13 @@ Other common keybindings:
 | F2  | Fullscreen on/off |
 | F3  | Pause on/off      |
 
+## Download
+
+Prebuilt binaries are available for:
+* [macOS](https://github.com/NHollmann/FHW-CG1/releases/download/1.0.0/CG1_Mac.zip)
+
+---
+
 Thanks for your interest.
 Solutions by Daniel Klintworth ([@klintwood](https://github.com/klintwood)) and Nicolas Hollmann ([@NHollmann](https://github.com/NHollmann)).
 
