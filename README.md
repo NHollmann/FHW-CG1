@@ -1,4 +1,3 @@
 # FHW-CG1
-My solutions to the computer graphics exercises of the FH Wedel.
-
-Created as part of a programming lab at [FH Wedel](https://www.fh-wedel.de/).
+Our solutions to the computer graphics exercises at [FH Wedel](https://www.fh-wedel.de/).
+Created in collaboration during the summer semester 2019.
