@@ -14,3 +14,5 @@ Das Repository enthält Lösungen für 5 unterschiedliche Übungen:
 5. Eine Shader Übung mit Vertex und Fragment Shadern die eine Landschaft anzeigen. Enthält Phong und Gouraud Beleuchtungsmodell.
 
 Du kannst mehr Informationen wie Bilder und Übersetzungsanweisungen in der [Dokumentation](https://nhollmann.github.io/FHW-CG1/) (Englisch) finden.
+
+![Abschlussbild](docs/ueb03/img1.png "Übung 3 3")
