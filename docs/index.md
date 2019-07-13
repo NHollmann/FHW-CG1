@@ -36,3 +36,5 @@ Other common keybindings:
 
 Thanks for your interest.
 Solutions by Daniel Klintworth ([@klintwood](https://github.com/klintwood)) and Nicolas Hollmann ([@NHollmann](https://github.com/NHollmann)).
+
+Checkout [nhollmann.github.io](https://nhollmann.github.io) for an archive of other projects by Nicolas Hollmann hosted on GitHub.
