@@ -7,7 +7,6 @@ A 2D Labyrinth Puzzle Game.
 The core goals of this exercise were:
 * Displaylists
 * Text output
-* Viewports
 * Gamelogic
 
 This exercise is a game. The target is to reach the green tile on the map. 
